@@ -19,3 +19,15 @@ The backend API service which is built using Golang provides the following metho
 | GET | /request | Gets all requests of a particular user |
 | PATCH | /request/status | Updates status of a particular user |
 | GET | /request/status | Gets all requests of a particular status i.e. "completed","pending","declined","approved" |
+
+Register User          
+:-------------------------:
+![](images/SS1.png)    
+
+Create Request          
+:-------------------------: 
+![](images/SS3.png)  
+
+Update Status         
+:-------------------------: 
+![](images/SS8.png)  
