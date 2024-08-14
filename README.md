@@ -13,7 +13,6 @@ The backend API service which is built using Golang provides the following metho
 | ------------- | ------------- | ------------ |
 | POST   | /signup | Registers user| 
 | POST    | /login | Authenticates user using JWT Token and login |
-| GET | /users | Gets all registered users |
 | POST | /request | Allows user to create a request for leave |
 | GET | /requests | Gets all requests |
 | GET | /request | Gets all requests of a particular user |
